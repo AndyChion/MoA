@@ -4,3 +4,6 @@ loguru
 datasets
 typer
 rich
+streamlit
+streamlit_chat
+python-dotenv
